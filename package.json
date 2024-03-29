@@ -5,7 +5,8 @@
   "repository": "git@github.com:divyakasa-09/vendor-data.git",
   "license": "MIT",
   "scripts": {
-    "start": "node \"build/index.js"
+    "start": "node \"build/index.js\""
+
   },
   "dependencies": {
     "@aws-sdk/util-dynamodb": "^3.540.0",
